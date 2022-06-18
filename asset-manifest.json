@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wingmeter.github.io/TrelloClone/static/css/main.103dcbc2.css",
+    "main.js": "/wingmeter.github.io/TrelloClone/static/js/main.b3358471.js",
+    "index.html": "/wingmeter.github.io/TrelloClone/index.html",
+    "main.103dcbc2.css.map": "/wingmeter.github.io/TrelloClone/static/css/main.103dcbc2.css.map",
+    "main.b3358471.js.map": "/wingmeter.github.io/TrelloClone/static/js/main.b3358471.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103dcbc2.css",
+    "static/js/main.b3358471.js"
+  ]
+}
