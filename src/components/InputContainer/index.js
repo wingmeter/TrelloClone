@@ -14,7 +14,7 @@ const InputContainer = ({ listId, type}) => {
         <Collapse in={!open}>
             <div className="input-content">
                 <button onClick={() => setOpen((prev) => !prev)}>
-                    {type === "card" ? "+ Add Card" : "+ Add List"}
+                    {type === "card" ? "➕ Add Card" : "➕ Add List"}
                 </button>
             </div>
         </Collapse>

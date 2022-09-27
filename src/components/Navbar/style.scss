@@ -1,5 +1,5 @@
 nav {
-    background: #e2e2e2;
+    background: #fff;
     height: 4rem;
     margin-bottom: 1rem;
     position: static;
@@ -12,23 +12,24 @@ nav {
         display: flex;
         align-items: center;
 
-        div {     
+        div {
             display: flex;
             align-items: center;
             flex-grow: 1;
 
-        svg {
-            height: 2rem;
-            width: 2rem;
-            margin-right: 0.3rem;
-            color: #0b60da;
+            svg {
+                height: 2rem;
+                width: 2rem;
+                margin-right: 0.3rem;
+                color: #227ef9;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
         }
-        h1 {
-            font-size: 1.5rem;
-            color: #525252;
-        }
-      }
     }
+
     .login-link {
         justify-content: flex-end;
 
